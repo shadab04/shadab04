@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadab Khan</h1>
-<h3 align="center">I'm Currently Pursuing a Bachelor Degree With Computer Science And Engineering From Jaypee University.</h3>
+<h3 align="center">I'm Currently Pursuing a Bachelor Degree With Computer Science And Engineering From Jaypee University Anupshahr.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadab04&label=Profile%20views&color=0e75b6&style=flat" alt="shadab04" /> </p>
 
