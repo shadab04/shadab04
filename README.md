@@ -12,7 +12,7 @@
 </p>
 
 ### 🔭 Projects I Have Completed:
-- [**AI Voice Assistant**](https://github.com/shadab04/AI-Assistant-project-python1)
+- [**AI Voice Assistant**](https://github.com/shadab04/AI-Assistant-project-python1.)
 - [**AI Resume Screening & Ranking System**](https://github.com/shadab04/AI-Resume-Screening-Ranking-System-Python)
 
 ### 👨‍💻 My Portfolio:
